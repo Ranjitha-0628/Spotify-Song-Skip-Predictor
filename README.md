@@ -142,11 +142,10 @@ predictions = model.predict(X_test)
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [Ranjitha-0628](https://github.com/Ranjitha-0628)
+- Email: ranjithakrishnapa@gmail.com
 
 ---
 
 ⭐ Star this project if you found it helpful!
 
-**Status**: Complete ✅ | **Updated**: February 2026
